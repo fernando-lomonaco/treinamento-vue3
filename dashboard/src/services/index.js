@@ -7,7 +7,7 @@ import { setGlobalLoading } from '../store/global'
 
 const API_ENVS = {
   local: 'http://localhost:3000',
-  production: 'https://backend-f75dpwkp5-fernando-lomonaco.vercel.app'
+  production: 'https://backend-sigma.vercel.app'
 }
 
 const httpClient = axios.create({
