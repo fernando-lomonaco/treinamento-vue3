@@ -32,7 +32,7 @@ jobs:
 
       - name: Run tests
         uses: cypress-io/github-action@v2
-        with:	
+        with:
           working-directory: dashboard
           browser: chrome
           headless: true

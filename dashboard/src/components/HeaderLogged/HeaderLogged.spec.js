@@ -1,5 +1,5 @@
 import { shallowMount } from '@vue/test-utils'
-import HeaderLogged from '.'
+import HeaderLogged from 'in'
 import { routes } from '../../router'
 import { createRouter, createWebHistory } from 'vue-router'
 
